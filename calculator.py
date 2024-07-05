@@ -1,4 +1,4 @@
-#making calculator using match case 
+#making simple calculator using python
 num_1 = int(input("Enter the number1 = "))
 num_2 =  int(input("Enter the number2 ="))
 
